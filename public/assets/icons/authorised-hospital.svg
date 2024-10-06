@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" id="authorised-hospital">
+  <path fill="#2652e4" d="M8 118h112v10H8z"></path>
+  <path fill="#2652e4" d="M106 118.1H22l.1-11h84zM12 41h104v9H12z"></path>
+  <path fill="#fff" d="m99 114-54 2v2h54z"></path>
+  <path fill="#bde5ec" d="M127.9 41H.1L64 5zM111.4 118H95.6l2.2-68h11.4zM32.4 118H16.6l2.2-68h11.4z"></path>
+  <circle cx="64" cy="26" r="7" fill="#fff"></circle>
+  <circle cx="64" cy="79" r="24" fill="#ecc6c3"></circle>
+  <path fill="none" stroke="#e44450" stroke-miterlimit="10" stroke-width="8" d="M52 79h24M64 91V67"></path>
+  <path fill="none" d="M0 0h128v128H0z"></path>
+</svg>
